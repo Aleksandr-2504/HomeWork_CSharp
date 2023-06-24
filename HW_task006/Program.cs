@@ -7,6 +7,7 @@
 -3 -> нет 
 7 -> нет
 */
+Console.Clear();
 Console.Write("Введите число: ");
 int numberA = int.Parse(Console.ReadLine());
 

@@ -7,6 +7,7 @@
 44 5 78 -> 78 
 22 3 9 -> 22
 */
+Console.Clear();
 Console.Write("Введите первое число: ");
 int numberA = int.Parse(Console.ReadLine());
 Console.Write("Введите второе число: ");

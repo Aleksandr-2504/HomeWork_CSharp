@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\plesh\\Desktop\\Обучение по программе РАЗРАБОТЧИК\\3_Знакомство с языками программирования\\C#\\HomeWork\\HW_Seminar1\\HW_task002\\HW_task002.csproj": {}
+    "C:\\Users\\plesh\\Desktop\\Обучение по программе РАЗРАБОТЧИК\\3_Знакомство с языками программирования\\CSharp\\HomeWork\\HW_Seminar1\\HW_task002\\HW_task002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\plesh\\Desktop\\Обучение по программе РАЗРАБОТЧИК\\3_Знакомство с языками программирования\\C#\\HomeWork\\HW_Seminar1\\HW_task002\\HW_task002.csproj": {
+    "C:\\Users\\plesh\\Desktop\\Обучение по программе РАЗРАБОТЧИК\\3_Знакомство с языками программирования\\CSharp\\HomeWork\\HW_Seminar1\\HW_task002\\HW_task002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\plesh\\Desktop\\Обучение по программе РАЗРАБОТЧИК\\3_Знакомство с языками программирования\\C#\\HomeWork\\HW_Seminar1\\HW_task002\\HW_task002.csproj",
+        "projectUniqueName": "C:\\Users\\plesh\\Desktop\\Обучение по программе РАЗРАБОТЧИК\\3_Знакомство с языками программирования\\CSharp\\HomeWork\\HW_Seminar1\\HW_task002\\HW_task002.csproj",
         "projectName": "HW_task002",
-        "projectPath": "C:\\Users\\plesh\\Desktop\\Обучение по программе РАЗРАБОТЧИК\\3_Знакомство с языками программирования\\C#\\HomeWork\\HW_Seminar1\\HW_task002\\HW_task002.csproj",
+        "projectPath": "C:\\Users\\plesh\\Desktop\\Обучение по программе РАЗРАБОТЧИК\\3_Знакомство с языками программирования\\CSharp\\HomeWork\\HW_Seminar1\\HW_task002\\HW_task002.csproj",
         "packagesPath": "C:\\Users\\plesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\plesh\\Desktop\\Обучение по программе РАЗРАБОТЧИК\\3_Знакомство с языками программирования\\C#\\HomeWork\\HW_Seminar1\\HW_task002\\obj\\",
+        "outputPath": "C:\\Users\\plesh\\Desktop\\Обучение по программе РАЗРАБОТЧИК\\3_Знакомство с языками программирования\\CSharp\\HomeWork\\HW_Seminar1\\HW_task002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\plesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
