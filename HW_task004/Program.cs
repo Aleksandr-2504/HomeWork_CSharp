@@ -24,6 +24,7 @@ if(max > numberB)
   else
   {
     max = numberC;
+    Console.Write(max);
   }
 }
 else
@@ -36,6 +37,22 @@ else
   else
   {
     max = numberC;
+    Console.Write(max);
   }
 }
+
+/*
+Второй способ решения (в сокращенном варианте):
+
+Console.Clear();
+Console.Write("Введите первое число: ");
+int numberA = int.Parse(Console.ReadLine());
+Console.Write("Введите второе число: ");
+int numberB = int.Parse(Console.ReadLine());
+Console.Write("Введите третье число: ");
+int numberC = int.Parse(Console.ReadLine());
+int max = numberA;
+if(max < numberB) max = numberB;
+if(max < numberC) max = numberC;
 Console.Write(max);
+*/
